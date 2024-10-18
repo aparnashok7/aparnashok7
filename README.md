@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aparnashok7
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning MCA
+- 👋 Hi, I’m APARNA ASHOK
+- 👀 I’m interested in Web Designing and Web Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me linkedin: aparnaashok7
+- 📫 How to reach me linkedin: www.linkedin.com/in/aparnaashok7
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i dont't know how this github actually works!
 
