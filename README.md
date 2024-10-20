@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, My name is Aparna Ashok 
 I'm currently working on my Internship Projects<br>I'm looking to collaborate on catering reservation and ordering system<br>I'm looking for help with my projects<br>I'm currently learning javascript<br>Ask me about my self study journey<br>
 
 
